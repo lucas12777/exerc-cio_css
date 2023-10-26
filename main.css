@@ -5,9 +5,9 @@
 }
 
 body > header{
-    background-color: rgb(6, 94, 170);
+    background-color: rgb(255, 187, 0);
     padding: 0% 0;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 
 header .container{
@@ -18,7 +18,7 @@ header .container{
 }
 
 header li a{
-    color: azure;
+    color: rgb(0, 0, 0);
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -63,8 +63,8 @@ section h2 .articles article{
 }
 
 .articles article a {
-    background-color: blue;
-    color: aliceblue;
+    background-color: rgb(176, 58, 255);
+    color: rgb(0, 0, 0);
     padding:  8px;
     display: inline-block;
 }
@@ -74,9 +74,10 @@ section h2 .articles article{
 }
 
 #esports {
-    background-color: rgb(152, 190, 141);
+    background-color: rgb(112, 25, 170);
 }
 
-#techno {
-    background-color: rgb(95, 150, 160);
+#techno{
+    background-color: rgb(112, 25, 170);
+    
 }
